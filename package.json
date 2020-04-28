@@ -9,12 +9,15 @@
   "dependencies": {
     "parcel": "^1.12.4",
     "pdfjs-dist": "^2.3.200",
-    "prettier": "^2.0.5"
+    "prettier": "^2.0.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "browserslist": [
     "last 1 Chrome versions"
   ],
   "devDependencies": {
+    "parcel-bundler": "^1.12.4",
     "sass": "^1.26.5"
   }
 }
