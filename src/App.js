@@ -11,9 +11,9 @@ async function loadImage(src) {
       resolve(image);
     };
 
-    image.onerror = function(err) {
-      reject(err)
-    }
+    image.onerror = function (err) {
+      reject(err);
+    };
 
     image.src = src;
   });
@@ -21,17 +21,17 @@ async function loadImage(src) {
 
 export function App() {
   const canvas = useRef(null);
-  const context = useRef(null)
+  const context = useRef(null);
   const [dimensions, setDimensions] = useState({ width: 1190, height: 1683 });
 
   useEffect(() => {
     async function drawImage() {
       const image = await loadImage(page);
       context.current = canvas.current.getContext('2d');
-      
+
       context.current.drawImage(image, 0, 0, image.width, image.height);
 
-      setDimensions({ width: image.width, height: image.height })
+      setDimensions({ width: image.width, height: image.height });
     }
 
     drawImage();
@@ -39,7 +39,11 @@ export function App() {
 
   return (
     <div id="relative">
-      <canvas width={dimensions.width} height={dimensions.height} ref={canvas}/>
+      <canvas
+        width={dimensions.width}
+        height={dimensions.height}
+        ref={canvas}
+      />
       <TextLayer />
     </div>
   );
