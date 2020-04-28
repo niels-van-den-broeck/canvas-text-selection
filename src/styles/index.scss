@@ -1,0 +1,15 @@
+#app {
+  position: relative;
+
+  svg {
+    position: absolute;
+    text {
+      fill: rgba(0,0,0,0);
+    }
+  }
+
+  canvas {
+    position: absolute;
+  }
+}
+

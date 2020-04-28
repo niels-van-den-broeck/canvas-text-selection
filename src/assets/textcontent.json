@@ -1,0 +1,1479 @@
+{
+  "pc": {
+      "items": [
+          {
+              "str": "Rallye 2",
+              "dir": "ltr",
+              "width": 33.87780000000001,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  210.579,
+                  17.0079
+              ],
+              "fontName": "g_d0_f1"
+          },
+          {
+              "str": " • Besoin d’aide? • Hoe kun je spreken over meerdere personen of zaken? ",
+              "dir": "ltr",
+              "width": 327.6845000000001,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  244.525,
+                  17.0079
+              ],
+              "fontName": "g_d0_f1"
+          },
+          {
+              "str": "120",
+              "dir": "ltr",
+              "width": 13.3749,
+              "height": 9,
+              "transform": [
+                  9,
+                  0,
+                  0,
+                  9,
+                  71.533,
+                  22.6993
+              ],
+              "fontName": "g_d0_f2"
+          },
+          {
+              "str": "cent vingt",
+              "dir": "ltr",
+              "width": 35.79750000000001,
+              "height": 9,
+              "transform": [
+                  9,
+                  0,
+                  0,
+                  9,
+                  96.382,
+                  22.6993
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "AXEL",
+              "dir": "ltr",
+              "width": 17.756,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  520.3117
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Dis, Émile. Tu as des ",
+              "dir": "ltr",
+              "width": 89.38819999999998,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  520.1694
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  224.7714,
+                  520.1694
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "1",
+              "dir": "ltr",
+              "width": 5.5,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  312.0564,
+                  520.1694
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ") et ",
+              "dir": "ltr",
+              "width": 19.1554,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  316.6544,
+                  520.1694
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  338.9184,
+                  520.1694
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "2",
+              "dir": "ltr",
+              "width": 5.5,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  426.5004,
+                  520.1694
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ")?",
+              "dir": "ltr",
+              "width": 8.041,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  431.2524,
+                  520.1694
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "ÉMILE",
+              "dir": "ltr",
+              "width": 20.698999999999998,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  497.5894
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Oui, j’ai deux frères, Laurent et Jules et une sœur, Marie.",
+              "dir": "ltr",
+              "width": 244.64880000000005,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  497.4471
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "AXEL",
+              "dir": "ltr",
+              "width": 17.756,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  474.8671
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Tu as aussi des ",
+              "dir": "ltr",
+              "width": 65.81629999999998,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  474.7248
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  201.1984,
+                  474.7248
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "3",
+              "dir": "ltr",
+              "width": 5.5,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  288.8024,
+                  474.7248
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ")?",
+              "dir": "ltr",
+              "width": 8.041,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  293.6094,
+                  474.7248
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "ÉMILE",
+              "dir": "ltr",
+              "width": 20.698999999999998,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  452.1448
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Beaucoup! Nous avons deux ",
+              "dir": "ltr",
+              "width": 124.27030000000002,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  452.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  259.6524,
+                  452.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "4",
+              "dir": "ltr",
+              "width": 5.5,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  346.4204,
+                  452.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "), un chien et un lapin.",
+              "dir": "ltr",
+              "width": 97.06840000000001,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  351.4034,
+                  452.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "J’adore mon chien Max. Il est super mignon! Papa a deux ",
+              "dir": "ltr",
+              "width": 247.20849999999993,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.27239999999998,
+                  430.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  382.5664,
+                  430.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "5",
+              "dir": "ltr",
+              "width": 5.5,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  469.9614,
+                  430.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "), ",
+              "dir": "ltr",
+              "width": 10.032,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  475.0434,
+                  430.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "des ",
+              "dir": "ltr",
+              "width": 17.627499999999998,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2724,
+                  408.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  152.8974,
+                  408.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "6",
+              "dir": "ltr",
+              "width": 5.5,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  239.76440000000002,
+                  408.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ") et trois ",
+              "dir": "ltr",
+              "width": 41.26980000000001,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  244.8574,
+                  408.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  289.2314,
+                  408.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "7",
+              "dir": "ltr",
+              "width": 5.5,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  377.0114,
+                  408.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "). Et toi?",
+              "dir": "ltr",
+              "width": 36.57610000000001,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  382.19239999999996,
+                  408.0025
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "AXEL",
+              "dir": "ltr",
+              "width": 17.756,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  385.4225
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Non, mes ",
+              "dir": "ltr",
+              "width": 44.006600000000006,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  385.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  179.3964,
+                  385.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "8",
+              "dir": "ltr",
+              "width": 5.5,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  266.8024,
+                  385.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ") n’aiment pas du tout les ",
+              "dir": "ltr",
+              "width": 113.53650000000005,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  271.6864,
+                  385.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  388.3194,
+                  385.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "9",
+              "dir": "ltr",
+              "width": 5.5,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  475.75839999999994,
+                  385.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ").   ",
+              "dir": "ltr",
+              "width": 9.988,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  480.56539999999995,
+                  385.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Papa est allergique. ",
+              "dir": "ltr",
+              "width": 86.46000000000001,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.28339999999997,
+                  363.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Mais, la semaine prochaine, pendant les vacances, je vais être pet-sitter ",
+              "dir": "ltr",
+              "width": 308.5907000000001,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.28339999999997,
+                  341.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ". ",
+              "dir": "ltr",
+              "width": 5.258,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  452.0794,
+                  341.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Les",
+              "dir": "ltr",
+              "width": 14.6135,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.28740000000005,
+                  319.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                                (",
+              "dir": "ltr",
+              "width": 93.5,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  146.95040000000006,
+                  319.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "10",
+              "dir": "ltr",
+              "width": 9.988,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  239.73540000000006,
+                  319.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ") des copains de mes parents ont  ",
+              "dir": "ltr",
+              "width": 149.9993,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  249.50340000000006,
+                  319.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "deux ",
+              "dir": "ltr",
+              "width": 23.274900000000002,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.28740000000005,
+                  297.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  158.55540000000005,
+                  297.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "11",
+              "dir": "ltr",
+              "width": 8.992500000000001,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  245.84040000000005,
+                  297.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ") et ils vont en voyage.",
+              "dir": "ltr",
+              "width": 98.49510000000002,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  254.93740000000005,
+                  297.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Chaque jour, je vais promener les chiens.",
+              "dir": "ltr",
+              "width": 176.00770000000003,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.28740000000005,
+                  275.2802
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "En plus, ils ont encore deux ",
+              "dir": "ltr",
+              "width": 120.56109999999998,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.28740000000005,
+                  253.28019999999998
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  255.93840000000006,
+                  253.28019999999998
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "12",
+              "dir": "ltr",
+              "width": 9.636,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  343.2234000000001,
+                  253.28019999999998
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ").",
+              "dir": "ltr",
+              "width": 6.71,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  352.7934000000001,
+                  253.28019999999998
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "ÉMILE",
+              "dir": "ltr",
+              "width": 20.698999999999998,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  230.7001
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Chouette! Alors, on fixe rendez-vous pendant les vacances?  ",
+              "dir": "ltr",
+              "width": 261.19609999999994,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  230.5578
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Je veux bien voir tous ces animaux.",
+              "dir": "ltr",
+              "width": 151.07070000000002,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  217.55579999999998
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "AXEL",
+              "dir": "ltr",
+              "width": 17.756,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  194.9778
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Bien sûr! Ça te convient mercredi après-midi?",
+              "dir": "ltr",
+              "width": 196.0464,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  194.8355
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "ÉMILE",
+              "dir": "ltr",
+              "width": 20.698999999999998,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  172.2555
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Très bien! À 14 heures alors?",
+              "dir": "ltr",
+              "width": 122.81170000000002,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  172.1132
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "AXEL",
+              "dir": "ltr",
+              "width": 17.756,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  149.5332
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "C’est parfait! Dis, Axel, tu aimes les ",
+              "dir": "ltr",
+              "width": 152.92200000000003,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  149.3909
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "                              (",
+              "dir": "ltr",
+              "width": 88,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  288.30740000000003,
+                  149.3909
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "13",
+              "dir": "ltr",
+              "width": 9.504,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  375.5924,
+                  149.3909
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": ") en ligne?",
+              "dir": "ltr",
+              "width": 45.177,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  385.1404,
+                  149.3909
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "ÉMILE",
+              "dir": "ltr",
+              "width": 20.698999999999998,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  126.8108
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Oui, bien sûr!",
+              "dir": "ltr",
+              "width": 58.01839999999999,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  126.6685
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "AXEL",
+              "dir": "ltr",
+              "width": 17.756,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  104.0885
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Alors, mercredi, on va jouer ensemble?",
+              "dir": "ltr",
+              "width": 168.5057,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  103.9462
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "ÉMILE",
+              "dir": "ltr",
+              "width": 20.698999999999998,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  81.3662
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "Bonne idée! ",
+              "dir": "ltr",
+              "width": 53.9671,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  81.2239
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "AXEL",
+              "dir": "ltr",
+              "width": 17.756,
+              "height": 10,
+              "transform": [
+                  10,
+                  0,
+                  0,
+                  10,
+                  96.3779,
+                  58.6439
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "À mercredi.",
+              "dir": "ltr",
+              "width": 50.57469999999999,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  132.2834,
+                  58.5016
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "4  ",
+              "dir": "ltr",
+              "width": 10.274,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  90.7034,
+                  783.9956
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "Complète la conversation.",
+              "dir": "ltr",
+              "width": 127.14240000000002,
+              "height": 11,
+              "transform": [
+                  11,
+                  0,
+                  0,
+                  11,
+                  107.7094,
+                  783.9956
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "Vul het gesprek aan",
+              "dir": "ltr",
+              "width": 70.1577,
+              "height": 9,
+              "transform": [
+                  9,
+                  0,
+                  0,
+                  9,
+                  107.7165,
+                  770.9911
+              ],
+              "fontName": "g_d0_f3"
+          },
+          {
+              "str": "1",
+              "dir": "ltr",
+              "width": 4,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  95.2126,
+                  703.3267
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "5",
+              "dir": "ltr",
+              "width": 4,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  439.9055,
+                  703.3267
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "9",
+              "dir": "ltr",
+              "width": 4,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  353.7323,
+                  629.6259
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "3",
+              "dir": "ltr",
+              "width": 4,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  267.5591,
+                  703.3267
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "7",
+              "dir": "ltr",
+              "width": 4,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  181.3858,
+                  629.6259
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "11",
+              "dir": "ltr",
+              "width": 7.312,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  91.5598,
+                  555.9252
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "4",
+              "dir": "ltr",
+              "width": 4,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  353.7323,
+                  703.3267
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "8",
+              "dir": "ltr",
+              "width": 4,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  267.5591,
+                  629.6259
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "12",
+              "dir": "ltr",
+              "width": 7.664,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  177.5522,
+                  555.9252
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "13",
+              "dir": "ltr",
+              "width": 7.692,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  263.7151,
+                  555.9252
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "2",
+              "dir": "ltr",
+              "width": 4,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  181.3858,
+                  703.3267
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "6",
+              "dir": "ltr",
+              "width": 4,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  95.2126,
+                  629.6259
+              ],
+              "fontName": "g_d0_f4"
+          },
+          {
+              "str": "10",
+              "dir": "ltr",
+              "width": 7.824,
+              "height": 8,
+              "transform": [
+                  8,
+                  0,
+                  0,
+                  8,
+                  435.9919,
+                  629.6259
+              ],
+              "fontName": "g_d0_f4"
+          }
+      ],
+      "styles": {
+          "g_d0_f1": {
+              "fontFamily": "sans-serif",
+              "ascent": 0.996,
+              "descent": -0.269,
+              "vertical": false
+          },
+          "g_d0_f2": {
+              "fontFamily": "sans-serif",
+              "ascent": 1.024,
+              "descent": -0.298,
+              "vertical": false
+          },
+          "g_d0_f3": {
+              "fontFamily": "sans-serif",
+              "ascent": 0.993,
+              "descent": -0.26,
+              "vertical": false
+          },
+          "g_d0_f4": {
+              "fontFamily": "sans-serif",
+              "ascent": 1.014,
+              "descent": -0.286,
+              "vertical": false
+          }
+      },
+      "viewport": {
+          "viewBox": [
+              0,
+              0,
+              595.276,
+              841.89
+          ],
+          "scale": 2,
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "transform": [
+              2,
+              0,
+              0,
+              -2,
+              0,
+              1683.78
+          ],
+          "width": 1190.552,
+          "height": 1683.78
+      }
+  }
+}

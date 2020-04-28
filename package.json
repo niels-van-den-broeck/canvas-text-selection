@@ -1,0 +1,20 @@
+{
+  "name": "pdf-text-content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "parcel src/index.html"
+  },
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "pdfjs-dist": "^2.3.200",
+    "prettier": "^2.0.5"
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
+  "devDependencies": {
+    "sass": "^1.26.5"
+  }
+}
