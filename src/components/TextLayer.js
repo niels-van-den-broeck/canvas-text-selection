@@ -26,7 +26,6 @@ export function TextLayer() {
     <svg
       width={textContent.pc.viewport.width}
       height={textContent.pc.viewport.height}
-      fontSize={1}
       onMouseUp={mouseUpHandler}
     >
       {textContent.pc.items.map((textItem, index) => {
@@ -43,7 +42,10 @@ export function TextLayer() {
         return (
           <text
             key={`${textItem.str}${index}`}
-            transform={`matrix(${tx.join(' ')})`}
+            x={tx[4]}
+            y={tx[5]}
+            textLength={`${textItem.width * 2}px`}
+            lengthAdjust="spacingAndGlyphs"
             fontFamily={style.fontFamily}
           >
             {textItem.str}

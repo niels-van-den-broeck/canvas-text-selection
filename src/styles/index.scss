@@ -1,3 +1,14 @@
+@font-face {
+  font-family: Freight Sans Bold;
+  src: url(../assets/FreightSansBold.ttf);
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 #relative {
   position: relative;
 
@@ -7,12 +18,12 @@
 
   svg {
     text {
+      fill: rgba(250, 0, 0, 1);
+
       &::selection {
         color: none;
-        background: none;
+        background: rgba(250, 250, 0, 0.5);
       }
-      
-      fill: rgba(0, 0, 0, 0);
     }
 
     rect {

@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 
-import page from './assets/120.png';
+import page from './assets/105.png';
+import { TextLayerDOM } from './components/TextLayerDOM';
 import { TextLayer } from './components/TextLayer';
 
 async function loadImage(src) {
@@ -19,10 +20,16 @@ async function loadImage(src) {
   });
 }
 
+const VIEWMODES = {
+  DOM: 'dom',
+  SVG: 'svg',
+};
+
 export function App() {
   const canvas = useRef(null);
   const context = useRef(null);
   const [dimensions, setDimensions] = useState({ width: 1190, height: 1683 });
+  const [viewmode, setViewmode] = useState(VIEWMODES.DOM);
 
   useEffect(() => {
     async function drawImage() {
@@ -38,13 +45,25 @@ export function App() {
   }, []);
 
   return (
-    <div id="relative">
-      <canvas
-        width={dimensions.width}
-        height={dimensions.height}
-        ref={canvas}
-      />
-      <TextLayer />
-    </div>
+    <>
+      <div id="relative">
+        <canvas
+          width={dimensions.width}
+          height={dimensions.height}
+          ref={canvas}
+        />
+        {viewmode === VIEWMODES.SVG && <TextLayer />}
+        {viewmode === VIEWMODES.DOM && <TextLayerDOM />}
+        <button
+          onClick={() => {
+            setViewmode(
+              viewmode === VIEWMODES.SVG ? VIEWMODES.DOM : VIEWMODES.SVG
+            );
+          }}
+        >
+          CHANGE VIEWMODE
+        </button>
+      </div>
+    </>
   );
 }
